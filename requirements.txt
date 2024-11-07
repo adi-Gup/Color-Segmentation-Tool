@@ -1,0 +1,6 @@
+streamlit==1.36.0
+scikit-learn
+millify==0.1.1
+pandas
+numpy
+PIL
