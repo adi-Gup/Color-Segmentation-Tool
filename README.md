@@ -1,5 +1,7 @@
 # Color Segmentation Tool
 
+**Link** - https://color-segmentation-tool-bk9krnaqgsdk5znogbrws7.streamlit.app/
+
 This repository contains a Color Segmentation Tool created using KMeans designed to help isolate specific colors within images, making it ideal for image analysis, preprocessing, and feature extraction tasks in computer vision projects. The tool allows users to define color ranges and segment regions of interest efficiently. It supports both real-time segmentation (for video and webcam feeds) and static image analysis.
 
 **Features**
